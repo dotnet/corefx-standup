@@ -2,7 +2,7 @@
 
 All standup [video recordings](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWA9B347EDadCzpw8VrF0M0)
 
-* [2017/26/6](Standups/2017-06.md) - 1st standup (not live streaming, only recorded - see details and reasoning in the standup)
+* [2017/26/6](Standups/2017-06.md) - 1st standup (not live streaming)
 * 2017/7-8 - Date TBD - will be streamed live & open to everyone
     * Vote for topics, or suggest new ones - [list of topics](https://github.com/dotnet/corefx-standup/issues)
 

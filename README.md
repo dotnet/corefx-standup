@@ -1,7 +1,5 @@
 # CoreFX Contributors standups
 
-All standup [video recordings](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWA9B347EDadCzpw8VrF0M0)
-
 * [2017/9/22](https://github.com/dotnet/corefx-standup/issues/29) - will be streamed live, recorded & open to everyone
     * Vote for topics, or suggest new ones - [list of topics](https://github.com/dotnet/corefx-standup/issues)
 * [2017/26/6](Standups/2017-06.md) - 1st standup (no streaming nor recording)

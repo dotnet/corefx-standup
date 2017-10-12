@@ -2,7 +2,7 @@
 
 * [2017/9/22](https://github.com/dotnet/corefx-standup/issues/29) - will be streamed live, recorded & open to everyone
     * Vote for topics, or suggest new ones - [list of topics](https://github.com/dotnet/corefx-standup/issues)
-* [2017/26/6](Standups/2017-06.md) - 1st standup (no streaming nor recording)
+* [2017/6/26](Standups/2017-06.md) - 1st standup (no streaming nor recording)
 
 ## About
 

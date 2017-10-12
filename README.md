@@ -2,11 +2,11 @@
 
 * Future (October/November 2017)
     * Vote for topics, or suggest new ones - [list of topics](https://github.com/dotnet/corefx-standup/issues)
-* 2017/9/22 - [recording](https://www.youtube.com/watch?v=s7KnbMX6N_U) (1.5h)
+* **2017/9/22** - [recording](https://www.youtube.com/watch?v=s7KnbMX6N_U) (1.5h)
     * [Topic: API review process & meetings](https://github.com/dotnet/corefx-standup/issues/10)
     * [Topic: Larger community contributions](https://github.com/dotnet/corefx-standup/issues/12)
     * See [event details](https://github.com/dotnet/corefx-standup/issues/29)
-* [2017/6/26](Standups/2017-06.md) - 1st standup (no streaming nor recording)
+* **2017/6/26** - 1st standup (no streaming nor recording available) - see [details](Standups/2017-06.md)
 
 ## About
 

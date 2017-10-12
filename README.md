@@ -1,7 +1,11 @@
 # CoreFX Contributors standups
 
-* [2017/9/22](https://github.com/dotnet/corefx-standup/issues/29) - will be streamed live, recorded & open to everyone
+* Future (October/November 2017)
     * Vote for topics, or suggest new ones - [list of topics](https://github.com/dotnet/corefx-standup/issues)
+* 2017/9/22 - [recording](https://www.youtube.com/watch?v=s7KnbMX6N_U) (1.5h)
+    * [Topic: API review process & meetings](https://github.com/dotnet/corefx-standup/issues/10)
+    * [Topic: Larger community contributions](https://github.com/dotnet/corefx-standup/issues/12)
+    * See [event details](https://github.com/dotnet/corefx-standup/issues/29)
 * [2017/6/26](Standups/2017-06.md) - 1st standup (no streaming nor recording)
 
 ## About
